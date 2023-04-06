@@ -1,0 +1,26 @@
+button.hsth-button {
+  border: none;
+  opacity: 0.7;
+  background: #2a90df;
+  border-radius: 2px;
+  text-transform: uppercase;
+  -webkit-font-smoothing: antialiased;
+  color: white;
+  font-family: 'Aktiv Grotesk';
+  font-weight: 700;
+  width: 70px;
+  transform: translate(20px, 0px);
+  transition: all 100ms;
+}
+
+button.hsth-button[show="true"]{
+  background: #c3830e;
+}
+
+button.hsth-button:hover {
+  opacity: 1;
+}
+
+#tkContent>article .messageBodyWrap .message {
+  overflow: visible !important;
+}

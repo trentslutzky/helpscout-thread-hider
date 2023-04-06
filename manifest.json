@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Helpscout Thread Hider",
+  "description": "Hide long helpscout threads",
+  "version": "1.0",
+  "permissions": ["storage"],
+  "content_scripts": [
+    {
+      "js": ["threadhider.js"],
+      "css": ["hsth.css"],
+      "matches": ["https://secure.helpscout.net/*/*"]
+    }
+  ],
+  "action": {
+    "default_icon": "hsth_icon.png"
+  }
+}
