@@ -8,13 +8,18 @@
 
 # Helpscout Thread Hider
 
-Adds the ability to hide an annoyingly long reply from a helpscout thread by injecting a "HIDE" button:
+Adds the ability to hide an annoyingly long reply from a helpscout thread. Helpful for hiding those pesky 1000-line TLS encrypted emails.
 
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/49824803/230453351-0c03e0f4-06f2-481c-8c2e-14b742b9dd78.png">
+Injects a "HIDE" button:
 
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/49824803/230453440-2c1af8a6-73e2-447b-8362-fc36d9eef064.png">
+<img width="445" alt="image" src="https://user-images.githubusercontent.com/49824803/230458343-33e56b55-4669-47c3-8d14-bd5645767ca2.png">
 
-Pin the extension to the toolbar to enable & disable
+### Usage
+
+https://user-images.githubusercontent.com/49824803/230458194-ad71d2ef-39d1-430a-ac39-bd223a362fd8.mov
+
+
+### Pin the extension to the toolbar to enable & disable
 
 <img width="242" alt="image" src="https://user-images.githubusercontent.com/49824803/230454151-061a4093-dbbc-4aa6-a840-b0b708ec00ad.png">
 
