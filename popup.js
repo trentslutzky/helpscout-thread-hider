@@ -1,5 +1,3 @@
-console.log("HELLO FROM POPUP");
-
 button_color_disabled = "#a03434";
 button_color_enabled = "#629562";
 
