@@ -1,3 +1,5 @@
+/////////////// observer //////////////////////////////////////////////////
+// to prevent buttons from getting hidden when the DOM changes
 
 const observer = new MutationObserver(function(mutationList, observer) {
   injectButtons();
@@ -21,6 +23,8 @@ function injectButtons(){
   });
 }
 
+/////////////// refresh buttons and hide hidden threads ///////////////////////
+
 function refreshThreads(){
   chrome.storage.local.get(["hsth_hidden_threads"]).then((res) => {
     articles = document.querySelectorAll("article.thread.customer");
@@ -38,6 +42,8 @@ function refreshThreads(){
     });
   })
 }
+
+/////////////// add button to thread //////////////////////////////////////////
 
 function addButtonToCustomerThread(article) {
 
