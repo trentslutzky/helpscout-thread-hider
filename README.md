@@ -27,9 +27,10 @@ https://user-images.githubusercontent.com/49824803/230458194-ad71d2ef-39d1-430a-
 ## Installation
 
 1. clone the repo
-2. navigate to `chrome://extensions/`
-3. click "Load Upacked" and select the root folder
-4. ignore any bad code that I wrote while sleep deprived at 1am
+    `git clone github.com/trentslutzky/helpscout-thread-hider`
+3. navigate to `chrome://extensions/` in your browser
+4. click "Load Upacked" and select the root folder
+5. ignore any bad code that I wrote while sleep deprived at 1am
 
 ---
 
