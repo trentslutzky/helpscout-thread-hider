@@ -12,6 +12,7 @@
     }
   ],
   "action": {
-    "default_icon": "hsth_icon.png"
+    "default_icon": "hsth_icon.png",
+    "default_popup": "popup.html"
   }
 }

@@ -1,0 +1,43 @@
+* {
+  font-family: 'Noto Sans Miao', sans-serif;
+  color: white;
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  background: black;
+}
+
+h1 {
+  color: #2a90df;
+  width: 150px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#container {
+  background: #0e0e0e;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  border: 3px solid gray;
+}
+
+#enable-button {
+  width: 150px;
+  font-size: 20px;
+  padding: 5px;
+  color: red;
+  background: #629562;
+  border: none;
+  color: white;
+  cursor: pointer;
+  opacity: 0;
+  border-radius: 10px;
+}
+
+#reload-required {
+  opacity:0;
+}
