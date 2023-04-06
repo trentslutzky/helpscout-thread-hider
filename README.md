@@ -8,7 +8,7 @@
 
 # Helpscout Thread Hider
 
-Adds the ability to hide an annoyingly long reply from a helpscout thread. Helpful for hiding those pesky 1000-line TLS encrypted emails.
+Adds the ability to hide replies in helpscout threads. Helpful for hiding those pesky 1000-line TLS encrypted emails.
 
 Injects a "HIDE" button:
 
