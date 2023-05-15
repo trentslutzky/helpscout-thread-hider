@@ -27,7 +27,7 @@ https://user-images.githubusercontent.com/49824803/230458194-ad71d2ef-39d1-430a-
 ## Installation
 
 1. clone the repo
-    `git clone github.com/trentslutzky/helpscout-thread-hider`
+    `git clone https://github.com/trentslutzky/helpscout-thread-hider`
     
     OR
     
